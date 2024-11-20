@@ -1,0 +1,7 @@
+{"Bullet Journal": [{
+    "journal": {"entry": "hi today is a cool day"},
+    "todo list": [{"tasks": [{
+        "description": "hi",
+        "deadline": "december"
+    }]}]
+}]}
